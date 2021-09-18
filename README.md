@@ -1,5 +1,5 @@
 # spring-boot-mail-sender
-Simple project to send async mail
+Simple project to send async email
 
 src & testing!
 
